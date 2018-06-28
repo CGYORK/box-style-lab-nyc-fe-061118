@@ -14,6 +14,8 @@ body, html {
   background-size: cover;
 }
 
+/*///// CONTAINERS //////*/
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
