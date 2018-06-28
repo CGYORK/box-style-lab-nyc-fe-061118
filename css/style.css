@@ -10,7 +10,7 @@ body, html {
 /*///// BACKGROUNDS //////*/
 
 .white-wood {
-  background: url(../images/white-wood.jpg) no-repeat center top;
+  background: url(../images/white-wood.jpg);
   background-size: cover;
 }
 
